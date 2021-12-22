@@ -1,24 +1,29 @@
 # 利用Python对招聘信息数据分析
 
-> 作者：何翔
+> 作者：何翔 				 
 >
 > 学院：计算机学院
 >
-> 学号：04191315
+> 学号：04191315		
 >
-> 班级：软件1903
+>  班级：软件1903
 >
 > 转载或引用请标注本文链接： https://blog.csdn.net/HXBest/article/details/119973217
 >
 > 项目全部文件的下载地址：https://download.csdn.net/download/HXBest/21700279?spm=1001.2014.3001.5503
+>
+> 欢迎一起交流学习呀！
 
-
-**欢迎一起交流学习呀！**
-| 微信                                                         | 公众号                                                       | B站号                                                        |
+| 微信                                                         | B站号                                                        | 公众号                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image](https://img-blog.csdnimg.cn/img_convert/cece57138556f8ebe17ea8521e3114e1.png) | ![image](https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png) | ![image](https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png) |
 
+---
+
+
+
 # 一、开发环境准备
+
 **导入开发所需相应的类库**
 ![image](https://img-blog.csdnimg.cn/img_convert/e021ab9dee8666b6ecbddc3ebb7555a2.png)
 
