@@ -12,11 +12,9 @@
 >
 > 项目全部文件的下载地址：https://download.csdn.net/download/HXBest/21700279?spm=1001.2014.3001.5503
 >
-> 欢迎一起交流学习呀！
-
-| 微信                                                         | B站号                                                        | 公众号                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image](https://img-blog.csdnimg.cn/img_convert/cece57138556f8ebe17ea8521e3114e1.png) | ![image](https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png) | ![image](https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png) |
+|                           bilibili                           |                   WeChat official account                    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img width="60%" src="https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png"> | <img width="50%" src="https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png"> |
 
 ---
 
