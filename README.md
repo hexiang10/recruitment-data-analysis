@@ -6,19 +6,15 @@
 >
 > 学号：04191315		
 >
->  班级：软件1903
+> 班级：软件1903
 >
-> 转载或引用请标注本文链接： https://blog.csdn.net/HXBest/article/details/119973217
+> 项目全部文件的下载地址：https://download.csdn.net/download/HXBest/21700279
 >
-> 项目全部文件的下载地址：https://download.csdn.net/download/HXBest/21700279?spm=1001.2014.3001.5503
+> 转载或引用请标注本文链接：https://blog.csdn.net/HXBest/article/details/119973217
 >
-|                           bilibili                           |                   WeChat official account                    |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="60%" src="https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png"> | <img width="50%" src="https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png"> |
-
----
-
-
+>如有问题，欢迎在 [issues](https://github.com/hexiang10/recruitment-data-analysis/issues) 中反馈，其他问题联系方式：
+[![Bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=pink)](https://space.bilibili.com/495642569)
+[![QQ](https://img.shields.io/badge/-172837855-white?style=flat&logo=tencentqq&logoColor=black)](javascript;)
 
 # 一、开发环境准备
 
